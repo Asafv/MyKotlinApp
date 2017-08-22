@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="hello_world">Hello World</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_age">Enter your age</string>
+    <string name="show_magic">Show me the Magic</string>
+    <string name="welcome_to_forecast">Welcome To Weather Forecast</string>
+    <string name="weather_forecast_url">http://api.openweathermap.org/data/2.5/forecast/daily?APPID=15646a06818f61f7b8d7823ca833e1ce&amp;q=94043&amp;mode=json&amp;units=metric&amp;cnt=7</string>
+
+</resources>
